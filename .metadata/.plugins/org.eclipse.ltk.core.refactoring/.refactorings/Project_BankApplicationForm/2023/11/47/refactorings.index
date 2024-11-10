@@ -1,0 +1,8 @@
+1700653405583	Rename type 'Loan'
+1700833213526	Rename type 'LoanDetails'
+1700833251595	Rename type 'LoanDetailsController'
+1700848739648	Rename type 'Loan'
+1700848827231	Rename type 'LoanService'
+1700848853849	Rename compilation unit 'LoanServiceImpl.java'
+1700849036102	Rename type 'LoanRepository'
+1700849088790	Rename type 'LoanController'

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;20_SpringBootProducerExample&apos; to &apos;21_SpringBootProducerExample&apos;" description="Rename resource &apos;20_SpringBootProducerExample&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/20_SpringBootProducerExample" name="21_SpringBootProducerExample" stamp="1694416308961" updateReferences="true"/>
+</session>

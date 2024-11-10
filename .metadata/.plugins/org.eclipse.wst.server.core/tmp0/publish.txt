@@ -1,0 +1,6 @@
+#Tomcat publish data
+#Tue Aug 15 22:04:46 IST 2023
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\AMIT\\.m2\\repository\\org\\apache\\tomcat\\tomcat-jasper\\9.0.58\\tomcat-jasper-9.0.58.jar=C\:\\Users\\AMIT\\Downloads\\spring-tool-suite-3.9.12.RELEASE-e4.14.0-win32-x86_64\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\demo\\WEB-INF\\lib\\tomcat-jasper-9.0.58.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\AMIT\\.m2\\repository\\org\\apache\\tomcat\\tomcat-jasper-el\\9.0.58\\tomcat-jasper-el-9.0.58.jar=C\:\\Users\\AMIT\\Downloads\\spring-tool-suite-3.9.12.RELEASE-e4.14.0-win32-x86_64\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\demo\\WEB-INF\\lib\\tomcat-jasper-el-9.0.58.jar
+org.eclipse.jst.jee.server\:demo=C\:\\Users\\AMIT\\Downloads\\spring-tool-suite-3.9.12.RELEASE-e4.14.0-win32-x86_64\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\demo
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\AMIT\\.m2\\repository\\org\\springframework\\spring-web\\5.3.27\\spring-web-5.3.27.jar=C\:\\Users\\AMIT\\Downloads\\spring-tool-suite-3.9.12.RELEASE-e4.14.0-win32-x86_64\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\demo\\WEB-INF\\lib\\spring-web-5.3.27.jar

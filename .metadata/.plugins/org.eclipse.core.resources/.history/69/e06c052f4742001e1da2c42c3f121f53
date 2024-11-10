@@ -1,0 +1,24 @@
+package com.example.demo.controller;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.ResponseBody;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.example.demo.model.Student;
+
+@RestController                   //always return jsp page
+public class HomeController {
+	
+	@RequestMapping(value="/getStu")
+	public Student showStudentData() {
+		Student student=new Student();
+		student.setId(1234);
+		student.setName("Amit");
+		student.setAddress("BBSR");
+		return student;
+		
+	}
+	
+	
+
+}
